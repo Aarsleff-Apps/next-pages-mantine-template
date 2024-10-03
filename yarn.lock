@@ -120,10 +120,10 @@
     react-textarea-autosize "8.5.3"
     type-fest "^4.12.0"
 
-"@mantine/dates@^7.11.2":
-  version "7.11.2"
-  resolved "https://registry.yarnpkg.com/@mantine/dates/-/dates-7.11.2.tgz#d639533c7f0e34f49ba909f6a0e6f61f9b5c0b6c"
-  integrity sha512-BEZs949EvfIG1fRNsEpcB0YqSe53z/KObwHyBwiqFjFHJ2eFPVMpxw6Rpy1Bud0/FZRV+QBokebxaf6+2tbCCw==
+"@mantine/dates@^7.13.0":
+  version "7.13.2"
+  resolved "https://registry.yarnpkg.com/@mantine/dates/-/dates-7.13.2.tgz#b6e2a83f507efe25b211f1d8765dd9af7a827c7d"
+  integrity sha512-FSLGTM5s47mmHnIudRxrMXjE1EO56Qp01nATa9OwqVgVYVxxJ5xvS1ys5yxSGSE1jQk+3kyYQXHyLFcqbFhIVA==
   dependencies:
     clsx "^2.1.1"
 
@@ -132,23 +132,23 @@
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-7.13.2.tgz#ec6a17faee4c8f3c0fe06f7b66c0e4a12c9b1ad1"
   integrity sha512-NKfGl2sKZw6zF//AfAFJrVDftjg7DKCn0h8rwJBIZCKi9axhwlV0Mvlqe2dep8QuM7O/uLLJSymSKIv1gaxIJg==
 
-"@mantine/modals@^7.11.2":
-  version "7.11.2"
-  resolved "https://registry.yarnpkg.com/@mantine/modals/-/modals-7.11.2.tgz#ff09236ef6fc09a2c243e45fa8073ff9ea85b40b"
-  integrity sha512-AsVyGP5+F9jkQdQ9J0qzaK8q7n9bPcpswAjScpzIgEfUBC4RCvf63bmh9Yp1OEgxl1xkNdzGUYGVau0SQqHasA==
+"@mantine/modals@^7.13.0":
+  version "7.13.2"
+  resolved "https://registry.yarnpkg.com/@mantine/modals/-/modals-7.13.2.tgz#42209ecba62f431c6dc4d99c7b04b1b43dd96315"
+  integrity sha512-rKkXss1ZYAbkSi9ZcUsBY/HyGjgKk+bT8TXzLoClBRgg6uyto+/2lT9M5e4Nao+2PsjsRnWI/ZgddNZKiSaNgQ==
 
-"@mantine/notifications@^7.11.2":
-  version "7.11.2"
-  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-7.11.2.tgz#a241eff96e66cf6e9eb430386a5d66942581cbb7"
-  integrity sha512-KB/6mp3mU3LvcFlfMc5zK5mWcrAO+zAGeiBb1oUjNFXBECCn9xizqqUeT0YbWBHL7wysq9IThDJxLwUBnQt+8Q==
+"@mantine/notifications@^7.13.0":
+  version "7.13.2"
+  resolved "https://registry.yarnpkg.com/@mantine/notifications/-/notifications-7.13.2.tgz#0be074470b0a91a6dc7a6834e67c301d7ebea903"
+  integrity sha512-14vFJtR0wjO8Won96UMLxIGmKetR0ocBxcghtuGh6+wnXt6r/ezfQKsdGkkNj6w91I+0Nl9jspcxEekE5q2tBQ==
   dependencies:
-    "@mantine/store" "7.11.2"
+    "@mantine/store" "7.13.2"
     react-transition-group "4.4.5"
 
-"@mantine/store@7.11.2":
-  version "7.11.2"
-  resolved "https://registry.yarnpkg.com/@mantine/store/-/store-7.11.2.tgz#720ea978fdcc881186dd53143bf30dfb32f26727"
-  integrity sha512-FfkmnOnCivOjqwNaTZeV4TgDANUs7fP+0uSgzp0GuvwTuDfQNVafPBRzPkjKuz5ug+Nn9l6WwjfJ6LBDv9U0LQ==
+"@mantine/store@7.13.2":
+  version "7.13.2"
+  resolved "https://registry.yarnpkg.com/@mantine/store/-/store-7.13.2.tgz#aba23573bff42eda28716f422275929afde086c9"
+  integrity sha512-JcBGOqRynYiRWzw1rYdmViB/lfeYSec2EXVdSt4eJv+RPICsjjuqrIc3sNzfqJEGxcN4hGSlaeBriSh05K+vNQ==
 
 "@next/env@14.2.4":
   version "14.2.4"
