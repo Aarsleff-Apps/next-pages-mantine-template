@@ -27,7 +27,7 @@ export default function Login() {
             </Group>
 
             <Text size="sm" c="dimmed">
-              AarTime is only accesable to authenticated users. Please sign in
+              AarTemplate is only accesable to authenticated users. Please sign in
               to view your forms.
             </Text>
 

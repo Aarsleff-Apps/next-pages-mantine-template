@@ -1,6 +1,6 @@
 {
     "name": "AarTemplate",
-    "short_name": "Aarsleff Template",
+    "short_name": "AarTemplate",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -8,18 +8,13 @@
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "/android-chrome-1024x1024.png",
-            "sizes": "1024x1024",
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
             "type": "image/png",
             "purpose": "maskable"
         }
     ],
-    "theme_color": "#006eb1",
+    "theme_color": "#005fae",
     "background_color": "#ffffff",
     "display": "standalone",
     "start_url": "/"
